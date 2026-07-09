@@ -1,1 +1,1 @@
-Employee Access Log: John Lennon Resueño logged in at 9:00 AM, no unauthorized changes made.
+Employee Access Log: John Lennon Resueño logged in at 9:00 AM,  unauthorized changes made.
